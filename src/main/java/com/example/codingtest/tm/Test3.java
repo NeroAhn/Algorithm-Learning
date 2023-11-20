@@ -1,4 +1,4 @@
-package com.example.codingtest.tmap_mobility;
+package com.example.codingtest.tm;
 
 public class Test3 {
     /*
