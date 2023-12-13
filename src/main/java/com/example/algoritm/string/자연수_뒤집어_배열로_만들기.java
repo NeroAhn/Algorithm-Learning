@@ -1,4 +1,4 @@
-package com.example.algoritm.array;
+package com.example.algoritm.string;
 
 public class 자연수_뒤집어_배열로_만들기 {
     /*

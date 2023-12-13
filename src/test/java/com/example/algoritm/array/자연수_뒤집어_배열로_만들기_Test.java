@@ -1,11 +1,10 @@
 package com.example.algoritm.array;
 
+import com.example.algoritm.string.자연수_뒤집어_배열로_만들기;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class 자연수_뒤집어_배열로_만들기_Test {
 
